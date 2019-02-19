@@ -2,9 +2,9 @@ package buyChicken;
 
 public class Main {
     public static void main(String[] args) {
-        Chicken rooster = new Rooster();
-        Chicken hen = new Hen();
-        Chicken chick = new Chick();
+        CountPrice rooster = new Rooster();
+        CountPrice hen = new Hen();
+        CountPrice chick = new Chick();
 
         int roosterNum = 0;
         int henNum = 0;
